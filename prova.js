@@ -70,3 +70,6 @@ function registrarPedido(cliente, prato, mesa, idade) {
 
   // 6. Exiba a quantidade de pedidos restantes
   console.log("Pedidos restantes:", pedidos.length);
+
+//Exercício 4 alternativa -> C (carro.push("HB20"); e carros.pop())
+//Exercício 5 alternativa -> C
